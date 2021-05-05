@@ -3,6 +3,6 @@ Its Real time patient-management-system using node , socket.io and angular to ad
 
 
 Clone the repo and run below commands following :
- npm i 
+ npm i ,
  npm start
- you appication will serve at port 5000
+  :you appication will serve at port 5000
